@@ -1,0 +1,25 @@
+<resources>
+    <!-- 应用名称 -->
+    <string name="app_name">存储空间</string>
+
+    <!-- 存储类型名称 -->
+    <string name="internal_storage">内部存储分区</string>
+    <string name="shared_storage">内部共享存储</string>
+    <string name="external_storage">SD 卡</string>
+    <string name="app_storage">应用存储</string>
+
+    <!-- 标签文字 -->
+    <string name="path_label">路径：</string>
+    <string name="used_label">已用：</string>
+    <string name="available_label">可用：</string>
+    <string name="total_label">总计：</string>
+
+    <!-- 状态文字 -->
+    <string name="no_external_storage">未检测到 SD 卡</string>
+    <string name="loading">加载中…</string>
+    <string name="disclaimer">以上信息仅供参考</string>
+    <string name="refresh_hint">下拉刷新</string>
+
+    <!-- 标题 -->
+    <string name="title_storage">📱 存储空间</string>
+</resources>

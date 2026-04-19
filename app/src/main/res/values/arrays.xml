@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主题颜色选项 -->
+    <string-array name="theme_colors">
+        <item>蓝色（默认）</item>
+        <item>绿色</item>
+        <item>紫色</item>
+        <item>橙色</item>
+        <item>红色</item>
+    </string-array>
+
+    <array name="theme_color_values">
+        <item>#2196F3</item>  <!-- 蓝色 -->
+        <item>#4CAF50</item>  <!-- 绿色 -->
+        <item>#9C27B0</item>  <!-- 紫色 -->
+        <item>#FF9800</item>  <!-- 橙色 -->
+        <item>#F44336</item>  <!-- 红色 -->
+    </array>
+</resources>

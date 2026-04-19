@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主题色 -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="accent">#03DAC5</color>
+
+    <!-- 背景色 -->
+    <color name="background">#FAFAFA</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- 文字颜色 -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+
+    <!-- 进度条/状态颜色 -->
+    <color name="storage_safe">#4CAF50</color>
+    <color name="storage_warning">#FF9800</color>
+    <color name="storage_danger">#F44336</color>
+
+    <!-- 分割线 -->
+    <color name="divider">#E0E0E0</color>
+
+    <!-- 基础颜色 -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
